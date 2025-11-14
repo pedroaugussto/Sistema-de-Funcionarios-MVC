@@ -1,0 +1,14 @@
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\obj\Debug\net9.0\Atividades CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\obj\Debug\net9.0\Atividades CS.AssemblyInfoInputs.cache
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\obj\Debug\net9.0\Atividades CS.AssemblyInfo.cs
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\obj\Debug\net9.0\Atividades CS.csproj.CoreCompileInputs.cache
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\bin\Debug\net9.0\Atividades CS.exe
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\bin\Debug\net9.0\Atividades CS.deps.json
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\bin\Debug\net9.0\Atividades CS.runtimeconfig.json
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\bin\Debug\net9.0\Atividades CS.dll
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\bin\Debug\net9.0\Atividades CS.pdb
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\obj\Debug\net9.0\Atividades CS.dll
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\obj\Debug\net9.0\refint\Atividades CS.dll
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\obj\Debug\net9.0\Atividades CS.pdb
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\obj\Debug\net9.0\Atividades CS.genruntimeconfig.cache
+C:\Users\49078790830\Desktop\Atividades CS\Sistema de Funcionarios\obj\Debug\net9.0\ref\Atividades CS.dll
